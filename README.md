@@ -8,7 +8,7 @@ Currently No Support
 
 ## Installation (Android)
 
-`npm i react-native-get-real-path --save`
+`npm i react-native-real-path --save`
 
 Make alterations to the following files:
 
