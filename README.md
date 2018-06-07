@@ -1,4 +1,4 @@
-## react-native-get-real-path
+## react-native-real-path
 
 Get real file path from file uri
 
