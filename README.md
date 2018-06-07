@@ -16,8 +16,8 @@ Make alterations to the following files:
 
 ```gradle
 ...
-include ':react-native-get-real-path'
-project(':react-native-get-real-path').projectDir = new File(settingsDir, '../node_modules/react-native-get-real-path/android')
+include ':react-native-real-path'
+project(':react-native-real-path').projectDir = new File(settingsDir, '../node_modules/react-native-real-path/android')
 ```
 
 * `android/app/build.gradle`
@@ -26,7 +26,7 @@ project(':react-native-get-real-path').projectDir = new File(settingsDir, '../no
 ...
 dependencies {
     ...
-    compile project(':react-native-get-real-path')
+    compile project(':react-native-real-path')
 }
 ```
 
