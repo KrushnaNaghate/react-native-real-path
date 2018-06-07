@@ -8,7 +8,7 @@ Currently No Support
 
 ## Installation (Android)
 
-`npm i react-native-get-real-path@https://github.com/Wraptime/react-native-get-real-path.git --save`
+`npm i react-native-get-real-path --save`
 
 Make alterations to the following files:
 
