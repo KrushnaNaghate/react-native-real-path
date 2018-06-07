@@ -1,5 +1,5 @@
 {
-  "name": "react-native-get-real-path",
+  "name": "react-native-real-path",
   "version": "1.0.0",
   "description": "Get real file path from uri",
   "main": "GRP.common.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:wraptime/react-native-get-real-path.git"
+    "url": "git@github.com:swathysubhash/react-native-real-path.git"
   },
   "keywords": [
     "react-component",
