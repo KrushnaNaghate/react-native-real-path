@@ -1,6 +1,6 @@
 {
   "name": "react-native-real-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get real file path from uri",
   "main": "GRP.common.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "uri",
     "path"
   ],
-  "author": "Anton Dobrovolskyy <anton@wraptime.io> (https://github.com/anton6)",
+  "author":
+    "Anton Dobrovolskyy <anton@wraptime.io> (https://github.com/anton6)",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.25"
