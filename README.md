@@ -1,4 +1,4 @@
-## react-native-get-real-path
+## react-native-real-path
 
 Get real file path from file uri
 
@@ -8,7 +8,7 @@ Currently No Support
 
 ## Installation (Android)
 
-`npm i react-native-get-real-path@https://github.com/Wraptime/react-native-get-real-path.git --save`
+`npm i react-native-real-path --save`
 
 Make alterations to the following files:
 
@@ -16,8 +16,8 @@ Make alterations to the following files:
 
 ```gradle
 ...
-include ':react-native-get-real-path'
-project(':react-native-get-real-path').projectDir = new File(settingsDir, '../node_modules/react-native-get-real-path/android')
+include ':react-native-real-path'
+project(':react-native-real-path').projectDir = new File(settingsDir, '../node_modules/react-native-real-path/android')
 ```
 
 * `android/app/build.gradle`
@@ -26,7 +26,7 @@ project(':react-native-get-real-path').projectDir = new File(settingsDir, '../no
 ...
 dependencies {
     ...
-    compile project(':react-native-get-real-path')
+    compile project(':react-native-real-path')
 }
 ```
 
