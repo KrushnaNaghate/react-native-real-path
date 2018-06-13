@@ -151,12 +151,12 @@ public class GRP extends ReactContextBaseJavaModule {
 
   private String checkForNull(String path, Uri uri, Context context) {
     try {
-        if (path == null) {
+        // if (path == null) {
         File file = createFileFromURI(uri, context);
         return file.getAbsolutePath();
-      } else {
-        return path;
-      }
+      // } else {
+      //   return path;
+      // }
     } catch (Exception ex) {
 
     }
